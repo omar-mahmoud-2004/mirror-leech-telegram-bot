@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://fhtkdytyt_db_user:<NomCg1Q5WRfJ1pbt>@cluster0.2rjb8n7.mongodb.net/?appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
